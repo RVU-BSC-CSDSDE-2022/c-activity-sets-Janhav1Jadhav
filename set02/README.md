@@ -47,7 +47,7 @@ void output(float radius, float height, float length, float weight);
 ***Input***
 
 ```
-1
+1 
 1
 1
 ```
